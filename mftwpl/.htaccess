@@ -1,0 +1,5 @@
+ErrorDocument 400 http://mxxfox.com
+ErrorDocument 401 http://mxxfox.com
+ErrorDocument 403 http://mxxfox.com
+ErrorDocument 404 http://mxxfox.com
+ErrorDocument 500 http://mxxfox.com

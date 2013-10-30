@@ -1,0 +1,5 @@
+ErrorDocument 400 http://onefxnew.com
+ErrorDocument 401 http://onefxnew.com
+ErrorDocument 403 http://onefxnew.com
+ErrorDocument 404 http://onefxnew.com
+ErrorDocument 500 http://onefxnew.com

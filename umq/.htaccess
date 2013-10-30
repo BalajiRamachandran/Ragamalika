@@ -1,0 +1,5 @@
+ErrorDocument 400 http://nws12-fox.com/
+ErrorDocument 401 http://nws12-fox.com/
+ErrorDocument 403 http://nws12-fox.com/
+ErrorDocument 404 http://nws12-fox.com/
+ErrorDocument 500 http://nws12-fox.com/

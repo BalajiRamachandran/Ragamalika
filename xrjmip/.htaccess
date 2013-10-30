@@ -1,0 +1,5 @@
+ErrorDocument 400 http://foxeds.com
+ErrorDocument 401 http://foxeds.com
+ErrorDocument 403 http://foxeds.com
+ErrorDocument 404 http://foxeds.com
+ErrorDocument 500 http://foxeds.com

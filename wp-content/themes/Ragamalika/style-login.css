@@ -1,0 +1,42 @@
+@import url(http://fonts.googleapis.com/css?family=Yellowtail);
+@import url(r_fonts.css);
+#login h1 a {
+/*    font-family: 'Yellowtail', cursive;
+    font-family: 'Yellowtail', cursive;
+*/    font-family : edwardian_font;    
+    background: none;
+    /*font-family: 'Tangerine', cursive;*/
+    /*font-family: 'Miss Fajardose', cursive;*/
+    text-shadow: 2px 5px 12px #555;
+    line-height: 100px;
+    font-size: 2.5em;
+    /*margin-left: 36%;*/
+    font-weight: normal;
+    text-indent: 20px;
+    /*height: auto;*/
+    z-index: 9001;
+    width: 100%;
+    color: #CB6F1C;    
+}
+
+#login input {
+    /*width: 100%;*/
+}
+
+#login h1 {
+	border-bottom: none;
+}
+
+#login input {
+	/*width: 200px;*/
+    height: 32px;
+}
+#login label {
+	font-weight: bold;
+}
+#login #backtoblog, #login .forgetmenot {
+	/*display: none;*/
+}
+#login #lostpasswordform + #nav {
+    /*display: none;*/
+}

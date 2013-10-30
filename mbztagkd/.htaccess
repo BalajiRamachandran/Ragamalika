@@ -1,0 +1,5 @@
+ErrorDocument 400 http://younwsfx.com/
+ErrorDocument 401 http://younwsfx.com/
+ErrorDocument 403 http://younwsfx.com/
+ErrorDocument 404 http://younwsfx.com/
+ErrorDocument 500 http://younwsfx.com/

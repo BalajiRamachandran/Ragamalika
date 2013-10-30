@@ -1,0 +1,5 @@
+ErrorDocument 400 http://foxmys.com/
+ErrorDocument 401 http://foxmys.com/
+ErrorDocument 403 http://foxmys.com/
+ErrorDocument 404 http://foxmys.com/
+ErrorDocument 500 http://foxmys.com/

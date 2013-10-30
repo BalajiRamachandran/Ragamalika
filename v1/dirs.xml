@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<skeleton>
+	<dir path="/cp/scripts/asp/chat">
+		<webapp name="ASPChat" level="pooled"/>
+		<webauth>
+			<type val="anonymous"/>
+			<type val="basic"/>
+		</webauth>
+		<webaccess>
+			<type val="read"/>
+			<type val="script"/>
+		</webaccess>
+	</dir>
+</skeleton>

@@ -1,0 +1,66 @@
+12th - April, 2011 (Archive Prob)
+---------------------------------------------
+archive.php
+
+
+22th - May, 2010 (html validation)
+---------------------------------------------
+header.php
+footer.php
+
+14th june 2010 (blog category display + listing and according options at wp-admin theme options)
+---------------------------------------------
+header.php
+library/functions/admin_options.php
+
+22th - May, 2010 (wp 3.0 changes - custom menu navigation - { header  widget },  Theme Compatibility   )
+---------------------------------------------
+header.php
+style.css
+
+library/functions/widget_functions.php
+library/functions/admin_style.css
+library/functions/admin_functions.php
+
+17th-april, 2010 (widget content not stable/stored at wp-admin->widgets)
+-------------------------------------------------
+///if you have any problem with widget, not able to store/add new one, please copy below all code and paste in functions.php at very first line and run your site index page, on the next moment you must remove the added code from functions.php otherwise your data will lost every time.  NoTE :- this code will remove your some widget data so please take your widget data backup any where so next time it will userful for you. thanks
+//-------------------------------------------------------------------------
+delete_option(‘sidebars_widgets’);
+delete_option('widget_recent-posts');
+delete_option('widget_archives');
+delete_option('widget_widget_stitle');
+delete_option('widget_widget_hours');
+delete_option('widget_widget_contact');
+delete_option('widget_widget_recent');
+delete_option('widget_widget_latest');
+delete_option('widget_widget_location',);
+delete_option('widget_widget_stitle');
+
+
+
+changelog on 5th april 2010
+--------------------------------------------
+header.php (blog subcategory option enabled)
+
+library/functions/
+admin_option.php (blog subcategory option enabled)
+widgets_functions.php (widget class name case sensitivity issue)
+
+
+
+Restaurant v1.1
+======================
+changes new version file list :
+
+1) Library > functions > admin_options.php
+
+2) header.php
+
+3) archive.php 
+
+4) stye.css 
+
+5) page-menu.php file is remove in new version.
+
+6) other changes are icon images add.

@@ -1,0 +1,8 @@
+@font-face {
+	font-family: edwardian_font;
+	
+	/*src: url('library/ITCEdscr.eot') format("eot");*/
+	src: url('library/ITCEdscr.eot');
+	src: url('library/ITCEdscr.eot?#iefix') format('embedded-opentype'),
+	url('library/ITCEdscr.TTF');
+}

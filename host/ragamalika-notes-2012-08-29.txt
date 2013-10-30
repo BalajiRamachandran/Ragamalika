@@ -1,0 +1,54 @@
+remove.
+
+BR - slide 6
+BR - slide 12
+
+BR - add teamcher in the profile.
+
+JS - article for my guru.
+
+BR - photo gallery pictures
+
+SR - will provide the pictures for albums - by year...
+
+BR - terms and condition
+
+BR - edwardian font (outlook)
+
+SR - about ragamalika
+
+BR - jaishree spelling change
+
+BR - remove review page
+
+JS - what to bring?
+
+1. digital tape recorder
+2. binder
+3. sheets saver
+4. pencil box
+5. notebook
+
+
+BR - class
+
+BR - remove student type from registration form
+
+BR - calendar (low priority)
+
+BR - reminder email for payment from system to all active students - on last week of every month
+
+JS - message content for payment reminder 	
+
+BR - move My Guru to Header
+
+background : #DBA901
+footer bar: #4B088A
+
+
+# slider with gold with glittering and matt finish.
+
+# modal window on welcome page
+
+# Music Lessons
+

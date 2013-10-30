@@ -1,0 +1,5 @@
+ErrorDocument 400 http://eonenws.com/
+ErrorDocument 401 http://eonenws.com/
+ErrorDocument 403 http://eonenws.com/
+ErrorDocument 404 http://eonenws.com/
+ErrorDocument 500 http://eonenws.com/

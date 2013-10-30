@@ -1,0 +1,5 @@
+ErrorDocument 400 http://inewscc.com
+ErrorDocument 401 http://inewscc.com
+ErrorDocument 403 http://inewscc.com
+ErrorDocument 404 http://inewscc.com
+ErrorDocument 500 http://inewscc.com

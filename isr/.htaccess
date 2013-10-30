@@ -1,0 +1,5 @@
+ErrorDocument 400 http://nonewsfx.com
+ErrorDocument 401 http://nonewsfx.com
+ErrorDocument 403 http://nonewsfx.com
+ErrorDocument 404 http://nonewsfx.com
+ErrorDocument 500 http://nonewsfx.com

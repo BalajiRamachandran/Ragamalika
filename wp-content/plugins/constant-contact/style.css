@@ -1,0 +1,32 @@
+.cc_caption 
+{
+	padding-bottom:5px;
+	padding-top:5px;
+	padding-right:5px;
+}
+.cc_msg 
+{
+	padding-top:5px;
+	color:#F00;
+}
+.cc_textbox 
+{
+	padding-bottom:5px;
+}
+.cc_button 
+{
+	padding-bottom:10px;
+}
+.cc_textbox_class 
+{
+	width:160px;
+}
+.cc_textbox_button 
+{
+	width:100px;
+}
+.cc_underconstruction 
+{
+	padding:10px;
+	text-align:center;
+}

